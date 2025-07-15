@@ -96,8 +96,10 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 Thanks to the team at Verlynk for the opportunity and guidance.
 
-With love Thrishitha
+
 
 ```
+
+With love Thrishitha
 
 
