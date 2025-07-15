@@ -3,7 +3,7 @@
 ```markdown
 # 📝 Task Manager — React Frontend Project
 
-A simple Task Manager built using **React**. This project allows users to manage a to-do list with features like adding, completing, deleting, and filtering tasks — all with a clean, responsive UI.
+A simple Task Manager built using React. This project allows users to manage a to-do list with features like adding, completing, deleting, and filtering tasks — all with a clean, responsive UI.
 
 ---
 
